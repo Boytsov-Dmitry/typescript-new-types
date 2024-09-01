@@ -4,7 +4,7 @@ export default class Movie {
         readonly year: number, 
         readonly originCountry: string, 
         readonly tag: string, 
-        readonly genre: any, 
+        readonly genre: unknown[], 
         readonly duration: number
         ){
     };
