@@ -9,7 +9,3 @@ export default class Movie {
         ){
     };
 };
-
-// const a = new Movie('fdf', 2, 'fdf', 'fdf', ['fd', 'fdsfs'], 5);
-
-// console.log(a)
