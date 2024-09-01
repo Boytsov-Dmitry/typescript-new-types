@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/jgalp27b185mk6ir?svg=true)](https://ci.appveyor.com/project/Boytsov-Dmitry/typescript-new-types)
